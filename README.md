@@ -6,7 +6,7 @@ Includes post-processing filters (dithering, palette swapping, sharpness) and pr
 ## Features
 
 - **Post-Processing Shaders**
-  - Dithering with quantization/posterization
+  - Dithering with posterization
   - Palette swapping
   - Sharpness filter
 
@@ -14,3 +14,12 @@ Includes post-processing filters (dithering, palette swapping, sharpness) and pr
   - Procedural planets
   - Nebula generator
   - Starfield shader
+
+## Showcase
+| Dithering | Palette Swapping | Procedural Planets |
+|-----------|------------------|--------------------|
+| ![](docs/images/dither.gif) | ![](docs/images/palette.gif) | ![](docs/images/planet.gif) |
+
+| Nebula | Starfield | Sharpness Filter |
+|--------|-----------|------------------|
+| ![](docs/images/nebula.gif) | ![](docs/images/starfield.gif) | ![](docs/images/sharpness.gif) |
