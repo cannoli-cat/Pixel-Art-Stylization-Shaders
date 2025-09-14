@@ -6,7 +6,7 @@ Includes post-processing filters (dithering, palette swapping, sharpness) and pr
 ## Features
 
 - **Post-Processing Shaders**
-  - Dithering with posterization
+  - Dithering with posterization and downscaling
   - Palette swapping
   - Sharpness filter
 
