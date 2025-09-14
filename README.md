@@ -16,10 +16,10 @@ Includes post-processing filters (dithering, palette swapping, sharpness) and pr
   - Starfield shader
 
 ## Showcase
-| Dithering | Palette Swapping | Procedural Planets |
-|-----------|------------------|--------------------|
-| ![](docs/images/dither.gif) | ![](docs/images/palette.gif) | ![](docs/images/planet.gif) |
+| Dithering, Palette Swapping, and Sharpness Filter |
+|---------------------------------------------------|
+| ![](docs/images/dither.gif) |
 
-| Nebula | Starfield | Sharpness Filter |
+| Nebula | Starfield | Procedural Planets |
 |--------|-----------|------------------|
-| ![](docs/images/nebula.gif) | ![](docs/images/starfield.gif) | ![](docs/images/sharpness.gif) |
+| ![](docs/images/nebula.gif) | ![](docs/images/starfield.gif) | ![](docs/images/planet.gif) |
