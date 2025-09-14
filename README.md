@@ -16,7 +16,7 @@ Includes post-processing filters (dithering, palette swapping, sharpness) and pr
   - Starfield shader
 
 ## Showcase
-| Dithering, Palette Swapping, and Sharpness Filter |
+| Dithering, Palette Swapping, and Sharpness Filter\n(Please allow some time for it to load.) |
 |---------------------------------------------------|
 | ![](docs/images/dither.gif) |
 
