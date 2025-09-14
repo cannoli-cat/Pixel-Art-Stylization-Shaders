@@ -22,4 +22,4 @@ Includes post-processing filters (dithering, palette swapping, sharpness) and pr
 
 | Nebula | Starfield | Procedural Planets |
 |--------|-----------|------------------|
-| ![](docs/images/nebula.gif) | ![](docs/images/starfield.gif) | ![](docs/images/planet.gif) |
+| ![](docs/images/nebula.png) | ![](docs/images/starfield.gif) | ![](docs/images/planet.gif) |
