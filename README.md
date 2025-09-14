@@ -1,4 +1,4 @@
-# Pixel Stylized Shader Suite
+# Stylized Pixel Art Shaders
 
 A collection of stylized shaders for Unity focused on pixel-art and retro aesthetics.  
 Includes post-processing filters (dithering, palette swapping, sharpness) and procedural pixel-art effects (planets, nebulae, starfields).
